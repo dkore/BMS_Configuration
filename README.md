@@ -49,7 +49,6 @@ s1,x,<x.x.x.x>,xxxx.xxxx.xxx,xxx/x/1
 
 # Screenshots
 
-![/IMAGES/0image.png](/IMAGES/0image.png)
 
 ### LICENSE
 
