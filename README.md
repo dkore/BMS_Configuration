@@ -47,8 +47,6 @@ s1,x,<x.x.x.x>,xxxx.xxxx.xxx,xxx/x/1
 
     $ python apply_configuration.py -c network.csv -s switches.csv
 
-# Screenshots
-
 
 ### LICENSE
 
