@@ -4,6 +4,7 @@ To bind the multiple switches with VLan for bms automation
 | :exclamation:  External repository notice   |
 |:---------------------------|
 | This repository is now mirrored at "PLEASE UPDATE HERE - add External repo URL after code review is completed"  Please inform a https://github.com/gve-sw/ organization admin of any changes to mirror them to the external repo |
+
 ## Contacts
 * Raveesh V
 * Darshan Kore
@@ -46,7 +47,6 @@ s1,x,<x.x.x.x>,xxxx.xxxx.xxx,xxx/x/1
 >Execute the following command to start the script
 
     $ python apply_configuration.py -c network.csv -d switches.csv
-
 
 ### LICENSE
 
